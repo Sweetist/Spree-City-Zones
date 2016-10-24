@@ -1,5 +1,4 @@
 require 'spree_core'
-require 'spree_city_zones_hooks'
 
 module SpreeCityZones
   class Engine < Rails::Engine
